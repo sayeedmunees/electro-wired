@@ -16,7 +16,7 @@ At Electro Wired, we specialize in providing cutting-edge robotic arm solutions 
 
 ## Get Started
 
-Ready to take your business to the next level with automation? Visit our website to learn more about [Your Product Name] and schedule a consultation today! Our team is here to help you find the perfect solution for your automation needs.
+Ready to take your business to the next level with automation? Visit our website to learn more about SG90 Armbot! Our team is here to help you find the perfect solution for your automation needs.
 
 Thank you for choosing Electro Wired. Let's automate and innovate together!
 
