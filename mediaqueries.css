@@ -1,0 +1,121 @@
+
+:root{
+    --primary-color: #ffffff;
+    --secondary-color: #0000ff;
+    --secondary-color-1: #3333fd;
+    --teritiary-color: #000000;
+    --teritiary-color-1: #444444;
+    --gradient-color: linear-gradient(45deg, rgb(251, 251, 251) 0%, rgba(193, 193, 193, 0.697) 90%);
+  }
+
+@media screen and (max-width:600px) {
+
+    h1{
+        font-size: 2.2rem;
+    }
+
+    h2{
+        font-size: 2rem;
+    }
+
+    section{
+        margin: 3rem 2rem;
+        margin-bottom: 10rem;
+        width: 90vw;
+        align-content: center;
+    }
+
+    .section-container{
+        padding-top: 7rem;
+        flex-direction: column;
+        justify-content: start;
+    }
+
+    .image-section img{
+        height: auto;
+        width: 80vw;
+    }
+
+    #home{
+        margin-top: 5rem;
+    }
+
+    #home img{
+        margin-top: -5rem;
+        margin-left: 0rem;
+        height: 100%;
+        width: auto;
+    }
+
+    #page-2 img{
+        margin-left: -10rem;
+        height: 110%;
+        width: auto;
+    }
+
+    #page-2 h2{
+        margin-top: 3rem;
+    }
+
+    #page-3 h2{
+        margin-top: 10rem;
+    }
+
+    .services-section{
+        width: 100vw;
+        flex-direction: column;
+        align-items: center;
+        margin: 0rem -2rem;
+    }
+
+    .box-container{
+        margin-bottom: 1.5rem;
+    }
+
+
+    #page-4 h2{
+        margin-top: 10rem;
+    }
+
+    #page-4{
+        margin-top: 50rem;
+    }
+
+    #page-4 .image-section{
+        margin-left: 0rem;
+        background-image: none;
+        border-radius: 0px 0px 0px 0px;
+        overflow: visible;
+    }
+
+    #page-4 img{
+        margin-top: -10rem;
+        margin-left: 0rem;
+        height: max-content;
+        width: max-content;
+    }
+
+    #page-5 .section-container{
+        margin-top: 5rem;
+    }
+
+    #page-5 .text-section{
+        flex-direction: column;
+      }
+
+    .contact-container{
+        flex-direction: column;
+        margin: 0rem 0px;
+    }
+
+    footer p {
+        text-align: center;
+        margin-top: 20rem;
+        font-size: 1rem;
+      }
+
+      #page-5 .email-container{
+        margin-top: 3rem;
+      }
+
+}
