@@ -18,8 +18,9 @@ At Electro Wired, we specialize in providing cutting-edge robotic arm solutions 
 
 Ready to take your business to the next level with automation? Visit our website to learn more about [Your Product Name] and schedule a consultation today! Our team is here to help you find the perfect solution for your automation needs.
 
-## Contact Us
-
-For inquiries, support, or partnership opportunities, please contact us at [contactelectrowired@gmail.com](mailto:contact@example.com) or give us a call at +1 (123) 456-7890.
-
 Thank you for choosing Electro Wired. Let's automate and innovate together!
+
+## Kindly to your attention
+This website is developed as a part of our mini-project Armbot, which could be used for Warehouse automation. It could be used to arrange a warehouse by determining the size and shape of a box or cargo. The project hasn't fully finished yet it's under progression. Currently, we don't intend to take it to market; maybe we will in the future. 
+
+Thanks for checking out!
