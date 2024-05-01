@@ -24,3 +24,7 @@ Thank you for choosing Electro Wired. Let's automate and innovate together!
 This website is developed as a part of our mini-project Armbot, which could be used for Warehouse automation. It could be used to arrange a warehouse by determining the size and shape of a box or cargo. The project hasn't fully finished yet it's under progression. Currently, we don't intend to take it to market; maybe we will in the future. 
 
 Thanks for checking out!
+
+## Also to note
+This is desktop-first workflow and I haven't yet optimised it for any other devices. Soon I will be making it responsive.
+Thank you <3
