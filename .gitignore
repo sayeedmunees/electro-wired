@@ -1,0 +1,8 @@
+*.sketch
+*.fig
+*.xd
+.DS_Store
+.prettierignore
+/design
+/fonts
+/images
