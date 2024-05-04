@@ -1,6 +1,6 @@
 # Electro Wired SG90 Armbot
 
-Welcome to the official GitHub page of [Electro Wired](https://sayeedmunees.github.io/electro-wired/) 
+Welcome to the official GitHub page of [Electro Wired](https://sayeedmunees.github.io/electro-wired/).
 ## About Us
 
 At Electro Wired, we specialize in providing cutting-edge robotic arm solutions for a wide range of industries. Our mission is to revolutionize the way businesses operate by offering innovative automation technologies that streamline processes, boost productivity, and drive growth.
