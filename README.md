@@ -1,7 +1,6 @@
 # Electro Wired SG90 Armbot
 
-Welcome to the [official website of Electro Wired](https://sayeedmunees.github.io/electro-wired/) – your ultimate solution for automation and efficiency!
-
+Welcome to the official GitHub page of [Electro Wired](https://sayeedmunees.github.io/electro-wired/) – 
 ## About Us
 
 At Electro Wired, we specialize in providing cutting-edge robotic arm solutions for a wide range of industries. Our mission is to revolutionize the way businesses operate by offering innovative automation technologies that streamline processes, boost productivity, and drive growth.
@@ -21,10 +20,12 @@ Ready to take your business to the next level with automation? Visit our website
 Thank you for choosing Electro Wired. Let's automate and innovate together!
 
 ## Kindly to your attention
-This website is developed as a part of our mini-project Armbot, which could be used for Warehouse automation. It could be used to arrange a warehouse by determining the size and shape of a box or cargo. The project hasn't fully finished yet it's under progression. Currently, we don't intend to take it to market; maybe we will in the future. 
+
+This website is developed as a part of our mini-project Armbot, which could be used for Warehouse automation. It could be used to arrange a warehouse by determining the size and shape of a box or cargo. The project hasn't fully finished yet it's under progression. 
+The above mentioned are our mission to be achieved. Currently, we don't intend to take it to market; maybe we will in the future. 
 
 Thanks for checking out!
 
 ## Also to note
-This is desktop-first workflow and I haven't yet optimised it for any other devices. Soon I will be making it responsive.
+This is a desktop-first workflow and I haven't yet optimized it for any other devices. Soon I will be making it responsive.
 Thank you <3
